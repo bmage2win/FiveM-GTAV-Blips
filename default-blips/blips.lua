@@ -115,6 +115,12 @@ local blips = {
     {title="Station-essence", colour=1, id=361, x=1181.381, y= -330.847,  z=69.316},
     {title="Station-essence", colour=1, id=361, x=620.843,  y= 269.100,  z=103.089},
     {title="Station-essence", colour=1, id=361, x=2581.321, y=362.039, 108.468},
+	
+    --Hospital Location
+    {title="Hospital-Location", colour=1, id=61, x=391.20, y=-1432.95, z=29.43},
+    {title="Hospital-Location", colour=1, id=61, x=361.30, y=-585.16, z=28.82},
+    {title="Hospital-Location", colour=1, id=61, x=-495.99,  y=-334.85, z=34.50},
+    {title="Hospital-Location", colour=1, id=61, x=1841.01, y=3669.42, z=33.67}	
   }
 
 Citizen.CreateThread(function()
